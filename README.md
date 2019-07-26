@@ -2,7 +2,7 @@
 
 Swedish translations for [react-admin](https://github.com/marmelab/react-admin), the frontend framework for building admin applications on top of REST/GraphQL services. Built upon [Stefan Wallin's](https://github.com/StefanWallin) translations for admin-on-react, [aor-language-swedish](https://github.com/StefanWallin/aor-language-swedish).
 
-![react-admin demo](https://marmelab.com/react-admin-demo/)
+[![react-admin-demo](https://marmelab.com/react-admin/img/react-admin-demo-still.png)](https://vimeo.com/268958716)
 
 ## Installation
 
