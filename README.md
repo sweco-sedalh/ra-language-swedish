@@ -13,7 +13,7 @@ npm install --save ra-language-swedish
 ## Usage
 
 ```js
-import swedishMessages from 'ra-language-english';
+import swedishMessages from 'ra-language-swedish';
 
 const messages = {
     'sv': swedishMessages,
