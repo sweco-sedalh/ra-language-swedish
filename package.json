@@ -1,28 +1,28 @@
 {
-  "name": "aor-language-swedish",
-  "version": "1.0.2",
-  "description": "Swedish translations for admin-on-rest, the frontend framework for building admin applications on top of REST services",
+  "name": "ra-language-swedish",
+  "version": "1.0.0",
+  "description": "Swedish translations for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StefanWallin/aor-language-swedish.git"
+    "url": "git+https://github.com/jolixab/ra-language-swedish.git"
   },
   "keywords": [
     "react",
-    "admin-on-rest",
+    "react-admin",
     "translation"
   ],
   "files": [
     "index.js",
     "LICENSE"
   ],
-  "author": "Stefan Wallin",
+  "author": "Sigfrid Stjärnholm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/StefanWallin/aor-language-swedish/issues"
+    "url": "https://github.com/jolixab/ra-language-swedish/issues"
   },
-  "homepage": "https://github.com/StefanWallin/aor-language-swedish#readme"
+  "homepage": "https://github.com/jolixab/ra-language-swedish#readme"
 }
