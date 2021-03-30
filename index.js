@@ -124,7 +124,7 @@ module.exports = {
             maxValue: 'Måste vara max %{max}',
             minLength: 'Måste vara minst %{min} tecken',
             minValue: 'Måste vara minst %{min}',
-            number: 'Måste vara ett nummer number',
+            number: 'Måste vara ett nummer',
             oneOf: 'Måste vara en av: %{options}',
             regex: 'Måste matcha ett specifikt format (regexp): %{pattern}',
             required: 'Obligatorisk'
