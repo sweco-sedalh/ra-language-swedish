@@ -1,4 +1,6 @@
-module.exports = {
+import { TranslationMessages } from 'ra-core';
+
+const englishMessages: TranslationMessages = {
     ra: {
         action: {
             add: 'Lägg till',
