@@ -7,7 +7,13 @@ Swedish translations for [react-admin](https://github.com/marmelab/react-admin),
 ## Installation
 
 ```sh
-npm install --save ra-language-swedish
+npm install --save @kolben/ra-language-swedish
+```
+
+or
+
+```sh
+yarn add @kolben/ra-language-swedish
 ```
 
 ## Usage
