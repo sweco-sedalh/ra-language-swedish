@@ -1,6 +1,6 @@
 import { TranslationMessages } from 'ra-core';
 
-const englishMessages: TranslationMessages = {
+const swedishMessages: TranslationMessages = {
     ra: {
         action: {
             add: 'Lägg till',
@@ -133,3 +133,5 @@ const englishMessages: TranslationMessages = {
         }
     }
 };
+
+export default swedishMessages;
