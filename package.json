@@ -1,6 +1,6 @@
 {
     "name": "@kolben/ra-language-swedish",
-    "version": "3.14.1",
+    "version": "3.14.2",
     "description": "Swedish messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
     "repository": {
         "type": "git",
@@ -44,6 +44,6 @@
         "rimraf": "^3.0.2"
     },
     "publishConfig": {
-      "access": "public"
+        "access": "public"
     }
 }
