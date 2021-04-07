@@ -42,5 +42,8 @@
     "homepage": "https://github.com/kolben/ra-language-swedish#readme",
     "devDependencies": {
         "rimraf": "^3.0.2"
+    },
+    "publishConfig": {
+      "access": "public"
     }
 }
